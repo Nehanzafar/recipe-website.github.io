@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *:focus {
+    @apply outline outline-2 outline-offset-2 outline-primary-2 border-none rounded-lg;
+  }
+
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url("./assets/fonts/Roboto-Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Dancing-script;
+  src: url("./assets/fonts/DancingScript-VariableFont_wght.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url("./assets/fonts/Montserrat-VariableFont_wght.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url("./assets/fonts/Poppins-Regular.ttf");
+  font-weight: normal;
+}
+
+@layer components {
+  .hero-section{
+    @apply bg-cover md:h-[100vh] h-[60vh] lg:block flex flex-col 
+  }
+  .button {
+    @apply font-poppins rounded-lg shadow-xl text-[1rem];
+  }
+
+
+
+  .shadow-standard {
+    @apply shadow-lg;
+  }
+
+  .animation-home-page {
+    @apply transition-all duration-300 ease-in-out;
+  }
+
+  .loader {
+    @apply border border-primary-1 border-t-8 border-t-primary-2 rounded-full w-28 h-28 animate-spin m-12;
+  }
+}

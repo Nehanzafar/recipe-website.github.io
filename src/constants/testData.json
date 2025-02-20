@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "id": 642583,
+      "title": "Farfalle with Peas, Ham and Cream",
+      "image": "https://img.spoonacular.com/recipes/642583-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 715538,
+      "title": "What to make for dinner tonight?? Bruschetta Style Pork & Pasta",
+      "image": "https://img.spoonacular.com/recipes/715538-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 650126,
+      "title": "Linguine E Americana",
+      "image": "https://img.spoonacular.com/recipes/650126-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 634629,
+      "title": "Beef Lo Mein Noodles",
+      "image": "https://img.spoonacular.com/recipes/634629-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 655575,
+      "title": "Penne Pasta with Broccoli and Cheese",
+      "image": "https://img.spoonacular.com/recipes/655575-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 649817,
+      "title": "Lemon White Wine Chicken over Linguini",
+      "image": "https://img.spoonacular.com/recipes/649817-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 667704,
+      "title": "Shrimp, Bacon, Avocado Pasta Salad",
+      "image": "https://img.spoonacular.com/recipes/667704-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 662773,
+      "title": "Tagliatelle Con Vongole - Pasta With Little Clams",
+      "image": "https://img.spoonacular.com/recipes/662773-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 656298,
+      "title": "Pistachio Pasta",
+      "image": "https://img.spoonacular.com/recipes/656298-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 654797,
+      "title": "Pasta A La Lydia (Halloween Inspired)",
+      "image": "https://img.spoonacular.com/recipes/654797-312x231.jpg",
+      "imageType": "jpg"
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 285
+}
