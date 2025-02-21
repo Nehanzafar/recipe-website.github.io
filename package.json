@@ -1,4 +1,5 @@
 {
+   "homepage": "https://Nehanzafar.github.io/recipe-website/",
   "name": "front-end",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +11,9 @@
     "preview": "vite preview",
     "test": "nyc vitest",
     "test:ui": "vitest --ui",
-    "coverage": "vitest run --coverage"
+    "coverage": "vitest run --coverage",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "localforage": "^1.10.0",
